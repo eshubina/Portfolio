@@ -6,4 +6,4 @@
 
 Построила модель для определения стоимости на исторические данных: технические характеристики, комплектации и цены автомобилей. 
 
-*Стек:* matplotlib, numpy, sklear, lightgbm, catboost, LGBMRegressor, RandomForestRegressor, CatBoostRegressor
+*Стек:* matplotlib, numpy, sklearn, lightgbm, catboost, LGBMRegressor, RandomForestRegressor, CatBoostRegressor
